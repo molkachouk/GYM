@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FirstAppApplication<assignment2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ro.sd.firstapp.FirstAppApplication",
+            "projectName": "assignment2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
